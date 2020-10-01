@@ -1,7 +1,9 @@
 #Author: Kyle Chen kvc5823@psu.edu  
 #Collaborator:
 #Collaborator:
-#Collaborator:
+#Collaborator: 
+#Breakout Room:
+#Section: 10
 
 def is_palindrome1(s):
   i = len(s) - 1
